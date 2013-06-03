@@ -1,4 +1,4 @@
- {
+{
   "name": "Copy to ClipBoard Demo",
   "description" : "This is used for demonstrating Copy to Clip Board Functionality",
   "version": "1",
@@ -6,5 +6,5 @@
     "default_popup": "popup.html"
   },
   "permissions":["clipboardWrite"],
-    "manifest_version": 2
+  "manifest_version": 2
 }
